@@ -7,7 +7,7 @@ The things which is fixed and Shoutouts(who helped a lot) !
 
 
 1)Major UI/UX change\
-  *As changes have been idealised by @chinmay bhaiya \
+  *As changes have been idealised by [chinmay bhaiya](https://github.com/Chinmay-KB) \
     #Backgrond colour changes (Ambient colour )\
     #Button rounded\
     #Button colour(Ambient colour)\
