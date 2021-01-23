@@ -2,7 +2,7 @@
 The App is made on Android Studio and also using Google Firebase \
 Intially the app has many ui/ux and bug issues .\
 But in the updated version .......,\
-The things which is fixed and Shoutouts(who helped a lot) !\
+The things which is fixed and Shoutouts(who helped a lot) !
 
 
 
