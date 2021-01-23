@@ -18,4 +18,4 @@ The things which is fixed and Shoutouts(who helped a lot) !\
      *Changes as per uses and feedback !\
      #User side ->Register button( clicking even  without data it enters another activity)\
 3)Email new user interface added .\
-4)Thanx for the youtube tutroial out there ! :)\
+4)Thanx for the youtube tutroial out there ! :)
